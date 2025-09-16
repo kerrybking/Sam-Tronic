@@ -21,7 +21,7 @@ public class RedBrickButton : MonoBehaviour
     {
         if(!blueman.move)
         {
-            Application.OpenURL("about:blank");
+            Application.OpenURL("https://thecodemaker.com/riddleme1");
         }
       
        
