@@ -23,7 +23,7 @@ public class BlueMan : MonoBehaviour
  
     private void Update()
     {
-        if(move && !redButton.GetComponent<RedBrickButton>().levelCompleted)
+        if(move && !redButton.transform.GetChild(0).GetComponent<RedBrickButton>().levelCompleted)
         {
             playerAnim.SetFloat("Speed",0f);
             bluemanAnim.SetBool("walk",true);
