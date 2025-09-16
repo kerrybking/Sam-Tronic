@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: 6c8b91a172c19f64c95ebe3fdd55906d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2475570268020363954
+    second: pirate slime death-Sheet color fix_0
+  - first:
+      213: -4491616951072601221
+    second: pirate slime death-Sheet color fix_1
+  - first:
+      213: 5007237957579231148
+    second: pirate slime death-Sheet color fix_2
+  - first:
+      213: 8421887459164828234
+    second: pirate slime death-Sheet color fix_3
+  - first:
+      213: -1884244319045894260
+    second: pirate slime death-Sheet color fix_4
+  - first:
+      213: 5637448266848606937
+    second: pirate slime death-Sheet color fix_5
+  - first:
+      213: 3267220383377492313
+    second: pirate slime death-Sheet color fix_6
+  - first:
+      213: -6156768909365389278
+    second: pirate slime death-Sheet color fix_7
+  - first:
+      213: -3918250338309523338
+    second: pirate slime death-Sheet color fix_8
+  - first:
+      213: -317622864575395680
+    second: pirate slime death-Sheet color fix_9
+  - first:
+      213: 2670031623736617432
+    second: pirate slime death-Sheet color fix_10
+  - first:
+      213: 7696218276432640088
+    second: pirate slime death-Sheet color fix_11
+  - first:
+      213: -3974023933373005325
+    second: pirate slime death-Sheet color fix_12
+  - first:
+      213: 1078593673816126829
+    second: pirate slime death-Sheet color fix_13
+  - first:
+      213: 6735700006615913797
+    second: pirate slime death-Sheet color fix_14
+  - first:
+      213: 4402398828740653318
+    second: pirate slime death-Sheet color fix_15
+  - first:
+      213: -2883106393189430045
+    second: pirate slime death-Sheet color fix_16
+  - first:
+      213: 1753565298342311557
+    second: pirate slime death-Sheet color fix_17
+  - first:
+      213: -2191650278959382021
+    second: pirate slime death-Sheet color fix_18
+  - first:
+      213: -9164769547855409870
+    second: pirate slime death-Sheet color fix_19
+  - first:
+      213: -2223293297441719441
+    second: pirate slime death-Sheet color fix_20
+  - first:
+      213: 6897104050495492850
+    second: pirate slime death-Sheet color fix_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pirate slime death-Sheet color fix_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b25fd9ea0efa5220800000000000000
+      internalID: 2475570268020363954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate slime death-Sheet color fix_1
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 0
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7bc13c3e229aa1c0800000000000000
+      internalID: -4491616951072601221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate slime death-Sheet color fix_2
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 0
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cafcc5794684d7540800000000000000
+      internalID: 5007237957579231148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate slime death-Sheet color fix_3
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 22
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4236d5e50e80e470800000000000000
+      internalID: 8421887459164828234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate slime death-Sheet color fix_4
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 51
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8fb83566c1d9d5e0800000000000000
+      internalID: -1884244319045894260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate slime death-Sheet color fix_5
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 42
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da1729845d3c3e40800000000000000
+      internalID: 5637448266848606937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate slime death-Sheet color fix_6
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 0
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9598122d0af775d20800000000000000
+      internalID: 3267220383377492313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate slime death-Sheet color fix_7
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 0
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2285b110c43ce8aa0800000000000000
+      internalID: -6156768909365389278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate slime death-Sheet color fix_8
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 0
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678b10cb3149f99c0800000000000000
+      internalID: -3918250338309523338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate slime death-Sheet color fix_9
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 0
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8017000b3979bf0800000000000000
+      internalID: -317622864575395680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate slime death-Sheet color fix_10
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 0
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d961e78d9bdd0520800000000000000
+      internalID: 2670031623736617432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate slime death-Sheet color fix_11
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 16
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858f2a00fb57eca60800000000000000
+      internalID: 7696218276432640088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate slime death-Sheet color fix_12
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 36
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1c662b94e69d8c0800000000000000
+      internalID: -3974023933373005325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate slime death-Sheet color fix_13
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 0
+        width: 386
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d653bc05b3fe7fe00800000000000000
+      internalID: 1078593673816126829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate slime death-Sheet color fix_14
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 35
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54510fff7730a7d50800000000000000
+      internalID: 6735700006615913797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate slime death-Sheet color fix_15
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 10
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601beaae866781d30800000000000000
+      internalID: 4402398828740653318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate slime death-Sheet color fix_16
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 0
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec4940c2062df7d0800000000000000
+      internalID: -2883106393189430045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate slime death-Sheet color fix_17
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 0
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586352a195ae55810800000000000000
+      internalID: 1753565298342311557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate slime death-Sheet color fix_18
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 0
+        width: 53
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf18db2eea1b591e0800000000000000
+      internalID: -2191650278959382021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate slime death-Sheet color fix_19
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 0
+        width: 45
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23dc2cb37a230d080800000000000000
+      internalID: -9164769547855409870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate slime death-Sheet color fix_20
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 0
+        width: 45
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6bba7686864521e0800000000000000
+      internalID: -2223293297441719441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate slime death-Sheet color fix_21
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 0
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f211bc679f67bf50800000000000000
+      internalID: 6897104050495492850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pirate slime death-Sheet color fix_0: 2475570268020363954
+      pirate slime death-Sheet color fix_1: -4491616951072601221
+      pirate slime death-Sheet color fix_10: 2670031623736617432
+      pirate slime death-Sheet color fix_11: 7696218276432640088
+      pirate slime death-Sheet color fix_12: -3974023933373005325
+      pirate slime death-Sheet color fix_13: 1078593673816126829
+      pirate slime death-Sheet color fix_14: 6735700006615913797
+      pirate slime death-Sheet color fix_15: 4402398828740653318
+      pirate slime death-Sheet color fix_16: -2883106393189430045
+      pirate slime death-Sheet color fix_17: 1753565298342311557
+      pirate slime death-Sheet color fix_18: -2191650278959382021
+      pirate slime death-Sheet color fix_19: -9164769547855409870
+      pirate slime death-Sheet color fix_2: 5007237957579231148
+      pirate slime death-Sheet color fix_20: -2223293297441719441
+      pirate slime death-Sheet color fix_21: 6897104050495492850
+      pirate slime death-Sheet color fix_3: 8421887459164828234
+      pirate slime death-Sheet color fix_4: -1884244319045894260
+      pirate slime death-Sheet color fix_5: 5637448266848606937
+      pirate slime death-Sheet color fix_6: 3267220383377492313
+      pirate slime death-Sheet color fix_7: -6156768909365389278
+      pirate slime death-Sheet color fix_8: -3918250338309523338
+      pirate slime death-Sheet color fix_9: -317622864575395680
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

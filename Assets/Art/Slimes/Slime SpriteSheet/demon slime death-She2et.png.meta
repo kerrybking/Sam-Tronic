@@ -1,0 +1,1105 @@
+fileFormatVersion: 2
+guid: 8b5bfd626eaf4f345bdb5598c21b0b3a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1517305974518119700
+    second: demon slime death-She2et_0
+  - first:
+      213: 3065591204904114326
+    second: demon slime death-She2et_1
+  - first:
+      213: -5550891950693161884
+    second: demon slime death-She2et_2
+  - first:
+      213: -1103196266522929733
+    second: demon slime death-She2et_3
+  - first:
+      213: 1530016906623627986
+    second: demon slime death-She2et_4
+  - first:
+      213: -2189285138996228837
+    second: demon slime death-She2et_5
+  - first:
+      213: -4106324022673178928
+    second: demon slime death-She2et_6
+  - first:
+      213: 1078006655278782276
+    second: demon slime death-She2et_7
+  - first:
+      213: -8371178001222425507
+    second: demon slime death-She2et_8
+  - first:
+      213: 1493155106420450116
+    second: demon slime death-She2et_9
+  - first:
+      213: 669031303171087533
+    second: demon slime death-She2et_10
+  - first:
+      213: -6821926739878081095
+    second: demon slime death-She2et_11
+  - first:
+      213: 755606202771296980
+    second: demon slime death-She2et_12
+  - first:
+      213: -5930971722397818905
+    second: demon slime death-She2et_13
+  - first:
+      213: 2580505037677930044
+    second: demon slime death-She2et_14
+  - first:
+      213: -2102512438695271684
+    second: demon slime death-She2et_15
+  - first:
+      213: 2098942488365731287
+    second: demon slime death-She2et_16
+  - first:
+      213: 7788412472861316761
+    second: demon slime death-She2et_17
+  - first:
+      213: -5302557723804076337
+    second: demon slime death-She2et_18
+  - first:
+      213: 2170156041298405011
+    second: demon slime death-She2et_19
+  - first:
+      213: 6434165986689686439
+    second: demon slime death-She2et_20
+  - first:
+      213: -4034166148321742681
+    second: demon slime death-She2et_21
+  - first:
+      213: 8078773391945415477
+    second: demon slime death-She2et_22
+  - first:
+      213: 7717038982101782011
+    second: demon slime death-She2et_23
+  - first:
+      213: 1365312093676528898
+    second: demon slime death-She2et_24
+  - first:
+      213: -9206975343917007446
+    second: demon slime death-She2et_25
+  - first:
+      213: -233554343883576545
+    second: demon slime death-She2et_26
+  - first:
+      213: 7801058295296105696
+    second: demon slime death-She2et_27
+  - first:
+      213: 483968165324596952
+    second: demon slime death-She2et_28
+  - first:
+      213: 3501279408727523872
+    second: demon slime death-She2et_29
+  - first:
+      213: -8254431975821130188
+    second: demon slime death-She2et_30
+  - first:
+      213: 1272108143555142902
+    second: demon slime death-She2et_31
+  - first:
+      213: -1489107454240428824
+    second: demon slime death-She2et_32
+  - first:
+      213: 2085301921897667764
+    second: demon slime death-She2et_33
+  - first:
+      213: -6630599918061476562
+    second: demon slime death-She2et_34
+  - first:
+      213: 487202176153571708
+    second: demon slime death-She2et_35
+  - first:
+      213: 3378883379576595054
+    second: demon slime death-She2et_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: demon slime death-She2et_0
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 41
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41dfabaaebd8e0510800000000000000
+      internalID: 1517305974518119700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon slime death-She2et_1
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 51
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6981fda65fa2b8a20800000000000000
+      internalID: 3065591204904114326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon slime death-She2et_2
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 42
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464eb544e2547f2b0800000000000000
+      internalID: -5550891950693161884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon slime death-She2et_3
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 0
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb51d5037d8a0b0f0800000000000000
+      internalID: -1103196266522929733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon slime death-She2et_4
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 0
+        width: 58
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d2b4ab2546bb3510800000000000000
+      internalID: 1530016906623627986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon slime death-She2et_5
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 19
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d8612f3c81e91e0800000000000000
+      internalID: -2189285138996228837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon slime death-She2et_6
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 42
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de79efbe086307c0800000000000000
+      internalID: -4106324022673178928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon slime death-She2et_7
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 36
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44716696759d5fe00800000000000000
+      internalID: 1078006655278782276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon slime death-She2et_8
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 35
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54a295d5f993db80800000000000000
+      internalID: -8371178001222425507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon slime death-She2et_9
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 0
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44360c088a0c8b410800000000000000
+      internalID: 1493155106420450116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon slime death-She2et_10
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 0
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac1121fc60e84900800000000000000
+      internalID: 669031303171087533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon slime death-She2et_11
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 0
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd04d136c5a351a0800000000000000
+      internalID: -6821926739878081095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon slime death-She2et_12
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 0
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2d34a86d37c7a00800000000000000
+      internalID: 755606202771296980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon slime death-She2et_13
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 0
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef579164a4f0bda0800000000000000
+      internalID: -5930971722397818905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon slime death-She2et_14
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 0
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3626efd8abcfc320800000000000000
+      internalID: 2580505037677930044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon slime death-She2et_15
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 10
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf26abb931062d2e0800000000000000
+      internalID: -2102512438695271684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon slime death-She2et_16
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 27
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd830f8211f02d10800000000000000
+      internalID: 2098942488365731287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon slime death-She2et_17
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 19
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996de1911eff51c60800000000000000
+      internalID: 7788412472861316761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon slime death-She2et_18
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 19
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc677a728d78966b0800000000000000
+      internalID: -5302557723804076337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon slime death-She2et_19
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 18
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39662cceb61fd1e10800000000000000
+      internalID: 2170156041298405011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon slime death-She2et_20
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 6
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab1a8e00efba4950800000000000000
+      internalID: 6434165986689686439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon slime death-She2et_21
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 20
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a070641343c308c0800000000000000
+      internalID: -4034166148321742681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon slime death-She2et_22
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 26
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53bb8c7c8919d1070800000000000000
+      internalID: 8078773391945415477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon slime death-She2et_23
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 9
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfdc40e411e681b60800000000000000
+      internalID: 7717038982101782011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon slime death-She2et_24
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 13
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205622f8d1092f210800000000000000
+      internalID: 1365312093676528898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon slime death-She2et_25
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 11
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aadfb0294b04a3080800000000000000
+      internalID: -9206975343917007446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon slime death-She2et_26
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 19
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1be119cf8f32ccf0800000000000000
+      internalID: -233554343883576545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon slime death-She2et_27
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 13
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec1d33103de24c60800000000000000
+      internalID: 7801058295296105696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon slime death-She2et_28
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 0
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d625c07b7667b600800000000000000
+      internalID: 483968165324596952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon slime death-She2et_29
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 0
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0220898521b079030800000000000000
+      internalID: 3501279408727523872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon slime death-She2et_30
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 0
+        width: 53
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4364e821add527d80800000000000000
+      internalID: -8254431975821130188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon slime death-She2et_31
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 0
+        width: 60
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f46c7cdd9f67a110800000000000000
+      internalID: 1272108143555142902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon slime death-She2et_32
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 5
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ecec95f8a0a55be0800000000000000
+      internalID: -1489107454240428824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon slime death-She2et_33
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 0
+        width: 63
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc5620bc0b70fc10800000000000000
+      internalID: 2085301921897667764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon slime death-She2et_34
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 0
+        width: 258
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25263441806bf3a0800000000000000
+      internalID: -6630599918061476562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon slime death-She2et_35
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 11
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c715e634cc3e2c600800000000000000
+      internalID: 487202176153571708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon slime death-She2et_36
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 0
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e626229188434ee20800000000000000
+      internalID: 3378883379576595054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      demon slime death-She2et_0: 1517305974518119700
+      demon slime death-She2et_1: 3065591204904114326
+      demon slime death-She2et_10: 669031303171087533
+      demon slime death-She2et_11: -6821926739878081095
+      demon slime death-She2et_12: 755606202771296980
+      demon slime death-She2et_13: -5930971722397818905
+      demon slime death-She2et_14: 2580505037677930044
+      demon slime death-She2et_15: -2102512438695271684
+      demon slime death-She2et_16: 2098942488365731287
+      demon slime death-She2et_17: 7788412472861316761
+      demon slime death-She2et_18: -5302557723804076337
+      demon slime death-She2et_19: 2170156041298405011
+      demon slime death-She2et_2: -5550891950693161884
+      demon slime death-She2et_20: 6434165986689686439
+      demon slime death-She2et_21: -4034166148321742681
+      demon slime death-She2et_22: 8078773391945415477
+      demon slime death-She2et_23: 7717038982101782011
+      demon slime death-She2et_24: 1365312093676528898
+      demon slime death-She2et_25: -9206975343917007446
+      demon slime death-She2et_26: -233554343883576545
+      demon slime death-She2et_27: 7801058295296105696
+      demon slime death-She2et_28: 483968165324596952
+      demon slime death-She2et_29: 3501279408727523872
+      demon slime death-She2et_3: -1103196266522929733
+      demon slime death-She2et_30: -8254431975821130188
+      demon slime death-She2et_31: 1272108143555142902
+      demon slime death-She2et_32: -1489107454240428824
+      demon slime death-She2et_33: 2085301921897667764
+      demon slime death-She2et_34: -6630599918061476562
+      demon slime death-She2et_35: 487202176153571708
+      demon slime death-She2et_36: 3378883379576595054
+      demon slime death-She2et_4: 1530016906623627986
+      demon slime death-She2et_5: -2189285138996228837
+      demon slime death-She2et_6: -4106324022673178928
+      demon slime death-She2et_7: 1078006655278782276
+      demon slime death-She2et_8: -8371178001222425507
+      demon slime death-She2et_9: 1493155106420450116
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

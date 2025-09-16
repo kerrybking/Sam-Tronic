@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: f16628cb8b00dee4cb4dfdf48bc30da7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 343163304721989867
+    second: venome slime death2-Sheet_0
+  - first:
+      213: -2398763094555621216
+    second: venome slime death2-Sheet_1
+  - first:
+      213: -146238174104099227
+    second: venome slime death2-Sheet_2
+  - first:
+      213: -4635212925475064287
+    second: venome slime death2-Sheet_3
+  - first:
+      213: 2461614977985173034
+    second: venome slime death2-Sheet_4
+  - first:
+      213: -4776085126471237064
+    second: venome slime death2-Sheet_5
+  - first:
+      213: -1305608005323777023
+    second: venome slime death2-Sheet_6
+  - first:
+      213: 432987533490274331
+    second: venome slime death2-Sheet_7
+  - first:
+      213: 7558938600574590600
+    second: venome slime death2-Sheet_8
+  - first:
+      213: -643685123974647726
+    second: venome slime death2-Sheet_9
+  - first:
+      213: 5571339968885040367
+    second: venome slime death2-Sheet_10
+  - first:
+      213: 5516195631410951099
+    second: venome slime death2-Sheet_11
+  - first:
+      213: -3945348922085153046
+    second: venome slime death2-Sheet_12
+  - first:
+      213: -5023155295030481814
+    second: venome slime death2-Sheet_13
+  - first:
+      213: -7843114458716678872
+    second: venome slime death2-Sheet_14
+  - first:
+      213: 8163832240547728153
+    second: venome slime death2-Sheet_15
+  - first:
+      213: -810370179747811959
+    second: venome slime death2-Sheet_16
+  - first:
+      213: -7666572785625510992
+    second: venome slime death2-Sheet_17
+  - first:
+      213: -5341266890953911565
+    second: venome slime death2-Sheet_18
+  - first:
+      213: 4538070623612692827
+    second: venome slime death2-Sheet_19
+  - first:
+      213: -70720951358371530
+    second: venome slime death2-Sheet_20
+  - first:
+      213: 2450202047858941696
+    second: venome slime death2-Sheet_21
+  - first:
+      213: -8535854092759595060
+    second: venome slime death2-Sheet_22
+  - first:
+      213: 2631494383798990546
+    second: venome slime death2-Sheet_23
+  - first:
+      213: -6926180601982354491
+    second: venome slime death2-Sheet_24
+  - first:
+      213: 1760006758785099784
+    second: venome slime death2-Sheet_25
+  - first:
+      213: 3117659859458314341
+    second: venome slime death2-Sheet_26
+  - first:
+      213: -6010322056226005236
+    second: venome slime death2-Sheet_27
+  - first:
+      213: -8373941559907593828
+    second: venome slime death2-Sheet_28
+  - first:
+      213: 6428161550058821262
+    second: venome slime death2-Sheet_29
+  - first:
+      213: -1282410702471776484
+    second: venome slime death2-Sheet_30
+  - first:
+      213: 903444690927984712
+    second: venome slime death2-Sheet_31
+  - first:
+      213: 92997094847983562
+    second: venome slime death2-Sheet_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: venome slime death2-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 41
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be047ed153923c400800000000000000
+      internalID: 343163304721989867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venome slime death2-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 51
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a802b8bca1e5bed0800000000000000
+      internalID: -2398763094555621216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venome slime death2-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 42
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5666cebc72578fdf0800000000000000
+      internalID: -146238174104099227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venome slime death2-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 0
+        width: 58
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12672c6176a6cafb0800000000000000
+      internalID: -4635212925475064287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venome slime death2-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 22
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a265690c7c9692220800000000000000
+      internalID: 2461614977985173034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venome slime death2-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 42
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832c7abd1efe7bdb0800000000000000
+      internalID: -4776085126471237064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venome slime death2-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 36
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c15c2cf6c81ede0800000000000000
+      internalID: -1305608005323777023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venome slime death2-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 35
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b104cdd1ed7420600800000000000000
+      internalID: 432987533490274331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venome slime death2-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e9c36bb9eb6e860800000000000000
+      internalID: 7558938600574590600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venome slime death2-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 0
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250b9464acb2117f0800000000000000
+      internalID: -643685123974647726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venome slime death2-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe42458fe20615d40800000000000000
+      internalID: 5571339968885040367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venome slime death2-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 0
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3bfc163b67d8c40800000000000000
+      internalID: 5516195631410951099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venome slime death2-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6e4280f0e4f39c0800000000000000
+      internalID: -3945348922085153046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venome slime death2-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 0
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ce51c7fda2a4ab0800000000000000
+      internalID: -5023155295030481814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venome slime death2-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 0
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825567354f8a72390800000000000000
+      internalID: -7843114458716678872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venome slime death2-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 10
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b8abf3b22cb4170800000000000000
+      internalID: 8163832240547728153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venome slime death2-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 19
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98def837d9cf0c4f0800000000000000
+      internalID: -810370179747811959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venome slime death2-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 6
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb4d14bbacda9590800000000000000
+      internalID: -7666572785625510992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venome slime death2-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 20
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2132adf0200e5b0800000000000000
+      internalID: -5341266890953911565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venome slime death2-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 19
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59e11e30377afe30800000000000000
+      internalID: 4538070623612692827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venome slime death2-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 26
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6394b106bafb40ff0800000000000000
+      internalID: -70720951358371530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venome slime death2-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 9
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f1192e7cdd00220800000000000000
+      internalID: 2450202047858941696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venome slime death2-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 0
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc700827ded8a8980800000000000000
+      internalID: -8535854092759595060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venome slime death2-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 0
+        width: 53
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d636c62332f48420800000000000000
+      internalID: 2631494383798990546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venome slime death2-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 13
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cbf3a0607341ef90800000000000000
+      internalID: -6926180601982354491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venome slime death2-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 0
+        width: 60
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8082cab72dccc6810800000000000000
+      internalID: 1760006758785099784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venome slime death2-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 5
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560d185cf17244b20800000000000000
+      internalID: 3117659859458314341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venome slime death2-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 0
+        width: 258
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f14f41feb079ca0800000000000000
+      internalID: -6010322056226005236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venome slime death2-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 11
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91d3dfa488c9cb80800000000000000
+      internalID: -8373941559907593828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venome slime death2-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 13
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8694163fda653950800000000000000
+      internalID: 6428161550058821262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venome slime death2-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 0
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17b207b246f33ee0800000000000000
+      internalID: -1282410702471776484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venome slime death2-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 0
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840a9f4e82ea98c00800000000000000
+      internalID: 903444690927984712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venome slime death2-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 0
+        width: 63
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acfae837d546a4100800000000000000
+      internalID: 92997094847983562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      venome slime death2-Sheet_0: 343163304721989867
+      venome slime death2-Sheet_1: -2398763094555621216
+      venome slime death2-Sheet_10: 5571339968885040367
+      venome slime death2-Sheet_11: 5516195631410951099
+      venome slime death2-Sheet_12: -3945348922085153046
+      venome slime death2-Sheet_13: -5023155295030481814
+      venome slime death2-Sheet_14: -7843114458716678872
+      venome slime death2-Sheet_15: 8163832240547728153
+      venome slime death2-Sheet_16: -810370179747811959
+      venome slime death2-Sheet_17: -7666572785625510992
+      venome slime death2-Sheet_18: -5341266890953911565
+      venome slime death2-Sheet_19: 4538070623612692827
+      venome slime death2-Sheet_2: -146238174104099227
+      venome slime death2-Sheet_20: -70720951358371530
+      venome slime death2-Sheet_21: 2450202047858941696
+      venome slime death2-Sheet_22: -8535854092759595060
+      venome slime death2-Sheet_23: 2631494383798990546
+      venome slime death2-Sheet_24: -6926180601982354491
+      venome slime death2-Sheet_25: 1760006758785099784
+      venome slime death2-Sheet_26: 3117659859458314341
+      venome slime death2-Sheet_27: -6010322056226005236
+      venome slime death2-Sheet_28: -8373941559907593828
+      venome slime death2-Sheet_29: 6428161550058821262
+      venome slime death2-Sheet_3: -4635212925475064287
+      venome slime death2-Sheet_30: -1282410702471776484
+      venome slime death2-Sheet_31: 903444690927984712
+      venome slime death2-Sheet_32: 92997094847983562
+      venome slime death2-Sheet_4: 2461614977985173034
+      venome slime death2-Sheet_5: -4776085126471237064
+      venome slime death2-Sheet_6: -1305608005323777023
+      venome slime death2-Sheet_7: 432987533490274331
+      venome slime death2-Sheet_8: 7558938600574590600
+      venome slime death2-Sheet_9: -643685123974647726
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
