@@ -54,24 +54,17 @@ public class PlayerController : MonoBehaviour
     public LeftButton leftbutton;
     public JumpButton jumpbutton;
     public GameObject brickbutton;
-    public GameObject brickbutton2;
+
     public GameObject Redbrickbutton;
     public SwordButton swordbutton;
   
     public GameObject mobileControls;
 
-    public RectTransform userInput;
  
     public GameObject pcFrontCollider;
     public GameObject mobileFrontCollider;
 
-    public GameObject KeyboardPortrait;
-    public GameObject keyboardLandscape;
-    public GameObject mobileCmdPortait;
-    public GameObject mobileCmdLandscape;
-
-    public GameObject portraitPanels;
-    public GameObject landscapePanels;
+  
    [HideInInspector] public bool bigJumpEnabled;
    [HideInInspector] public bool attackEnabled;
     public GameObject doorTrigger;
@@ -94,8 +87,8 @@ public class PlayerController : MonoBehaviour
             mobileControls.SetActive(false);
             if(brickbutton!=null)
             brickbutton.SetActive(true);
-            if(brickbutton2!=null)
-            brickbutton2.SetActive(false);
+      
+      
             if(pcFrontCollider!=null)
             pcFrontCollider.SetActive(true);
             if(mobileFrontCollider!=null)
@@ -113,8 +106,8 @@ public class PlayerController : MonoBehaviour
             mobileControls.SetActive(true);
             if(brickbutton!=null)
             brickbutton.SetActive(true);
-            if(brickbutton2!=null)
-            brickbutton2.SetActive(true);
+       
+          
             if(pcFrontCollider!=null)
             pcFrontCollider.SetActive(false);
             if(mobileFrontCollider!=null)
@@ -174,7 +167,7 @@ public class PlayerController : MonoBehaviour
 
         if (raycastResults.Count > 0)
         {
-            // The first result is the topmost UI element
+            
             return raycastResults[0].gameObject;
         }
 
@@ -182,51 +175,8 @@ public class PlayerController : MonoBehaviour
     }
     private void Update()
     {
-        if (controls == Controls.Mobile)
-        {
-            if (Screen.orientation == ScreenOrientation.Portrait || Screen.orientation == ScreenOrientation.PortraitUpsideDown)
-            {
-
-
-                portraitPanels.SetActive(true);
-                landscapePanels.SetActive(false);
-                if(brickbutton2!=null)
-                brickbutton2.gameObject.SetActive(true);
-
-                if (mobileCmdPortait.activeSelf == false && KeyboardPortrait.activeSelf == false)
-                {
-                   
-                    keyboardLandscape.SetActive(false);
-                    mobileCmdLandscape.SetActive(false);
-                    mobileControls.SetActive(true);
-               
-
-                }
-
-            }
-            else if (Screen.orientation == ScreenOrientation.LandscapeLeft || Screen.orientation == ScreenOrientation.LandscapeRight)
-            {
-
-                portraitPanels.SetActive(false);
-                landscapePanels.SetActive(true);
-                if(brickbutton2!=null)
-                brickbutton2.gameObject.SetActive(false);
-
-                if (mobileCmdLandscape.activeSelf == false && keyboardLandscape.activeSelf == false)
-                {
-                   
-                    KeyboardPortrait.SetActive(false);
-                    mobileCmdPortait.SetActive(false);
-                    mobileControls.SetActive(true);
-                   
-                 
-                }
-
-            }
-        }
+        
       
-
-
         if (health <= 0 && DieFromFire != null)
         {
             StopCoroutine(DieFromFire);

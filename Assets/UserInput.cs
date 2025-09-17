@@ -8,12 +8,12 @@ public class UserInput : MonoBehaviour
     [SerializeField] TMP_InputField userInput;
     [SerializeField] PlayerController playerController;
     [SerializeField] GameObject pcCmd;
-    public GameObject mobileCmdPortrait;
+
     public GameObject mobileCmdLandscape;
-    public GameObject mobileKeyboardPortrait;
+
     public GameObject mobileKeyboardLandscape;
     [SerializeField] BrickButton brickButton;
-    [SerializeField] BrickButton brickButton2;
+
     public Button Q;
     public Button W;
     public Button E;
@@ -551,13 +551,11 @@ public class UserInput : MonoBehaviour
         }
       
         
-        mobileKeyboardPortrait.SetActive(false);
+     
         mobileKeyboardLandscape.SetActive(false);
-        mobileCmdPortrait.SetActive(false);
         mobileCmdLandscape.SetActive(false);
         playerController.mobileControls.SetActive(true);
-        brickButton.transform.parent.GetComponent<Canvas>().sortingOrder = 9;
-        brickButton2.transform.parent.GetComponent<Canvas>().sortingOrder = 9;
+      
         userInput.text = "";
 
     }
