@@ -17,28 +17,35 @@ public class BlueMan : MonoBehaviour
 
 
     Material material;
-     int index = 0;
-     bool grab;
+    int index = 0;
+    bool grab;
 
- 
+
     private void Update()
     {
-        if(move && !redButton.transform.GetChild(0).GetComponent<RedBrickButton>().levelCompleted)
+        // if(move && !redButton.transform.GetChild(0).GetComponent<RedBrickButton>().levelCompleted)
+        if (move)
         {
-            playerAnim.SetFloat("Speed",0f);
-            bluemanAnim.SetBool("walk",true);
+            playerAnim.SetFloat("Speed", 0f);
 
-            transform.position = Vector2.MoveTowards(transform.position, waypoints[index].transform.position, speed*Time.deltaTime);
+             if (index < waypoints.Length - 1)
+                bluemanAnim.SetBool("walk", true);
+
+       
+            
+
+            transform.position = Vector2.MoveTowards(transform.position, waypoints[index].transform.position, speed * Time.deltaTime);
 
             if (transform.position == waypoints[index].position)
             {
-                while(!grab)
+               
+                while (!grab)
                 {
                     bluemanAnim.SetBool("walk", false);
                     StartCoroutine(Matrix());
                     princess.transform.SetParent(transform);
                     Vector3 scale = princess.transform.localScale;
-                    scale.x = Mathf.Abs( scale.x);
+                    scale.x = Mathf.Abs(scale.x);
                     princess.transform.localScale = scale;
                     princess.transform.localPosition = new Vector2(.15f, -0.1f);
                     Invoke("GrabPrincess", 1f);
@@ -47,30 +54,34 @@ public class BlueMan : MonoBehaviour
                 SetIndex();
             }
         }
-       
+
     }
     void SetIndex()
     {
-       if(index<waypoints.Length-2)
+        if (index < waypoints.Length - 2)
         {
             index++;
+         
         }
-       else
+        
+        else
         {
-            index=waypoints.Length-1;
-
+         
+            index = waypoints.Length - 1;
             if (transform.position == waypoints[index].position)
             {
                 gameOver.SetActive(true);
                 redButton.GetComponent<Canvas>().sortingOrder = 7;
+                bluemanAnim.SetBool("walk", false);
+               
             }
         }
     }
     void GrabPrincess()
     {
-     
+
         grab = transform.childCount > 0 && fadein;
-    
+
     }
     bool matrixed;
     bool fadein;
@@ -102,7 +113,7 @@ public class BlueMan : MonoBehaviour
                     mpb.SetFloat("_EffectBlend", effectBlend);
 
                     renderer.SetPropertyBlock(mpb);
-                    
+
 
                     princess2.SetActive(true);
 
@@ -112,8 +123,7 @@ public class BlueMan : MonoBehaviour
                     }
                 }
 
-                Debug.Log("_OverlayStrength = " + overlayStrength);
-                Debug.Log("_EffectBlend = " + effectBlend);
+            
 
                 yield return new WaitForEndOfFrame();
             }

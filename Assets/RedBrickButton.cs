@@ -19,11 +19,7 @@ public class RedBrickButton : MonoBehaviour
     }
     public void OpenNewTab()
     {
-        if(!blueman.move)
-        {
-            Application.OpenURL("https://thecodemaker.com/riddleme1");
-        }
-      
-       
+        Application.OpenURL("https://thecodemaker.com/riddleme1");
+        
     }
 }

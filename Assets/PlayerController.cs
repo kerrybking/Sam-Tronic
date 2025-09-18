@@ -203,7 +203,7 @@ public class PlayerController : MonoBehaviour
 
                 if (princess != null && cam.scene2)
                 {
-                    Debug.Log("scene 2");
+                   
 
                     if (Vector2.Distance(player.position, princess.position) <= dis)
                     {
